@@ -1,0 +1,15 @@
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\bin\Debug\library.exe.config
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\bin\Debug\library.exe
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\bin\Debug\library.pdb
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.Form1.resources
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.Properties.Resources.resources
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.csproj.GenerateResource.Cache
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.exe
+c:\users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.pdb
+C:\Users\burhan\Documents\Visual Studio 2017\Projects\library\library\obj\Debug\library.Form3.resources
+C:\Users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.Form4.resources
+C:\Users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.Form5.resources
+C:\Users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.Form6.resources
+C:\Users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.ProcessForm.resources
+C:\Users\burhan\documents\visual studio 2017\Projects\library\library\obj\Debug\library.ProcessList.resources
